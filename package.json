@@ -1,0 +1,18 @@
+{
+  "name": "java_academy_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "backend": "json-server --watch db.json",
+    "frontend": "live-server --entry-file=index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.0",
+    "live-server": "^1.2.1",
+    "uuid": "^3.3.2"
+  }
+}
