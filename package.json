@@ -12,7 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.15.0",
-    "live-server": "^1.2.1",
-    "uuid": "^3.3.2"
+    "live-server": "^1.2.1"
   }
 }
